@@ -5,4 +5,4 @@
 #apt update && apt upgrade
 #pkg install python2
 #pkg install git
-#git clone https://github.com/mohamedomar8908/termux-test/blob/main/README.md
+#git clone https://github.com/mohamedomar8908/termux-test.git
